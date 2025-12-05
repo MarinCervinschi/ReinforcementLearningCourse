@@ -8,4 +8,5 @@ dependencies = [
     "jupyterlab>=4.5.0",
     "matplot>=0.1.9",
     "simpy>=4.1.1",
+    "tqdm>=4.67.1",
 ]
